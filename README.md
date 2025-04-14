@@ -95,3 +95,7 @@ The application handles various error cases:
 - API key issues
 - Network connectivity problems
 - Invalid user input
+
+##OUTPUT SNAPSHOTS
+
+![Image](https://github.com/user-attachments/assets/38ec3dc4-c4ed-45d1-ba2b-c190a9b95aa9)
