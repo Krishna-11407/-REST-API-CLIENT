@@ -15,7 +15,7 @@
 ## Project Description
 I developed this Java application as part of my learning journey in API integration and Java programming. The application fetches real-time weather data from OpenWeatherMap's free API and displays it in a user-friendly format. I used VS Code as my IDE and took help from various resources like ChatGPT, Google, and YouTube tutorials to understand API integration concepts and Java programming best practices.
 
-The application uses OpenWeatherMap's Current Weather Data API, which provides comprehensive weather information for any city worldwide. I obtained my API key (12a59f76d0459e9ccc24f8068d81d599) by signing up on OpenWeatherMap's website (https://openweathermap.org/). The API key is free for personal use and allows up to 60 calls per minute, which is more than sufficient for this application.
+The application uses OpenWeatherMap's Current Weather Data API, which provides comprehensive weather information for any city worldwide. I obtained my API key by signing up on OpenWeatherMap's website (https://openweathermap.org/). The API key is free for personal use and allows up to 60 calls per minute, which is more than sufficient for this application.
 
 The program features a simple command-line interface that allows users to:
 - Get current weather information for any city
