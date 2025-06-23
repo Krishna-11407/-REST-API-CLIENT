@@ -1,16 +1,4 @@
-# -REST-API-CLIENT
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Motheraju Krishna Prasad
-
-*INTERN ID*: CT04DA187
-
-*DOMAIN*: JAVA PROGRAMMING
-
-*DURATION*: 4 WEEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 ## Project Description
 I developed this Java application as part of my learning journey in API integration and Java programming. The application fetches real-time weather data from OpenWeatherMap's free API and displays it in a user-friendly format. I used VS Code as my IDE and took help from various resources like ChatGPT, Google, and YouTube tutorials to understand API integration concepts and Java programming best practices.
